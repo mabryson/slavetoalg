@@ -1,4 +1,4 @@
-# slavetoalg
-Slave to the Algorithm studio 2020
+# Slave to the Algorithm studio 2020
 
-# Hello
+
+# Nice to meet ya, I'm Maddy :-)
