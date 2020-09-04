@@ -4,7 +4,7 @@ Week six we classified our projects into broad groupings. These groupings led to
 * expanding on the original idea: **the want to see beauty is what destroys it in the end.** IE cutting flowers, taking seashells as momentos leading to erosion, instagram tourism destroying fragile ecosystems  
 * Screen gradually turns white (pixels) 
 
-#### I feel like this discussion really help develop on my original proposal, I was finding it hard to articulate a meaning behind my project and its digital decay but I feel like is concept of fragile ecosystems is something that i want to explore further. 
+## I feel like this discussion really help develop on my original proposal, I was finding it hard to articulate a meaning behind my project and its digital decay but I feel like is concept of fragile ecosystems is something that i want to explore further. 
 
 
 
