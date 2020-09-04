@@ -9,6 +9,32 @@ I feel like this discussion really help develop on my original proposal, I was f
 ## rapid prototyping 
 Comes from UX design and coding; used to ideate/generate a concept that will become a digital project but to do it only with pen, paper, and scissors. Paper prototype leads to pseudo-code, which leads to actual code. In groups we created our own paper prototypes of old arcade games - space invaders instantly came to mind. 
 
+Andy's Example: 
+
 <img width="762" alt="Screen Shot 2020-08-28 at 12 00 28 pm" src="https://user-images.githubusercontent.com/68723190/92232780-77586700-eef2-11ea-875e-ffc6d6857e1b.png">
 
 <img width="771" alt="Screen Shot 2020-08-28 at 12 00 17 pm" src="https://user-images.githubusercontent.com/68723190/92232844-92c37200-eef2-11ea-93d3-e431dcdcf891.png">
+
+Group space invaders: 
+
+<img width="1680" alt="Screen Shot 2020-08-28 at 12 25 56 pm" src="https://user-images.githubusercontent.com/68723190/92232980-cf8f6900-eef2-11ea-88b0-ab80a1ea71b9.png">
+
+## code power hour
+
+function setup() {
+  song = loadSound('data/doorbell.mp3');
+createCanvas(windowWidth, windowHeight);
+background(0);
+}
+
+
+function draw() {
+  fill(255);
+ellipse(windowWidth/2,windowHeight/2,60,60); 
+
+}
+
+function mousePressed(){
+  
+  song.play();
+}
