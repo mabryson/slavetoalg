@@ -9,4 +9,6 @@ I feel like this discussion really help develop on my original proposal, I was f
 ## rapid prototyping 
 Comes from UX design and coding; used to ideate/generate a concept that will become a digital project but to do it only with pen, paper, and scissors. Paper prototype leads to pseudo-code, which leads to actual code. In groups we created our own paper prototypes of old arcade games - space invaders instantly came to mind. 
 
-file:///Users/madisynbryson/Desktop/Screen%20Shot%202020-08-28%20at%2012.00.28%20pm.png
+<img width="762" alt="Screen Shot 2020-08-28 at 12 00 28 pm" src="https://user-images.githubusercontent.com/68723190/92232780-77586700-eef2-11ea-875e-ffc6d6857e1b.png">
+
+<img width="771" alt="Screen Shot 2020-08-28 at 12 00 17 pm" src="https://user-images.githubusercontent.com/68723190/92232844-92c37200-eef2-11ea-93d3-e431dcdcf891.png">
