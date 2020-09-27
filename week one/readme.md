@@ -7,7 +7,7 @@ This activity produced an array of interesting outputs and I enjoyed the randomn
 <insert photo 1 when scanned> 
 <insert photo 2 when scanned > 
 
-## Artist Research 
+## NOTABLE PRACTITIONERS 
 ###### 1 
 
 ###### 2 
