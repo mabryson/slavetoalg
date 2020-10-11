@@ -1,3 +1,8 @@
+# WEEK FOUR 
+
+## IN CLASS ACTIVITY 
+Today's class saw us continue our experimentations on processing.
+
 //sketch 14th august 2020
 PImage photo;
 int smallPoint, largePoint, x,y,dotSize,t;
