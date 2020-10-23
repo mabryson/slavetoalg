@@ -2,6 +2,9 @@
 
 In all honesty this week the potential magnitude of this project had me entirely stumped. Translating paper prototypes and pseudocode into the beginnings of what should be your final output is confronting, where do you start? Tim Rodenbroeker has been a source of massive inspiration for this project, especially in building the foundations of my project. 
 
+## project 
+I was also thinking more about how I wanted to develop my project conceptually, what did I want it to mean? I think my project has a lot of potential for underlying meaning - collaborative destruction has a nice ring to it 
+
 ## paper prototype + short presentation 
 presented gif to demonstrate how my exhibition would deconstruct: 
 ![IMG_9556](https://user-images.githubusercontent.com/68723190/96977888-6d092f80-1569-11eb-80f0-817572d6196c.JPG)
