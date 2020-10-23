@@ -1,8 +1,11 @@
 # WEEK FOUR 
+![180719110858-01-file-2000s-restricted-super-tease](https://user-images.githubusercontent.com/68723190/96998718-b1072f00-157f-11eb-93a4-4b6c28ffa32f.jpg)
 
 ## IN CLASS ACTIVITY 
 Today's class saw us continue our experimentations on processing.
 
+
+### CODE: 
 //sketch 14th august 2020
 PImage photo;
 int smallPoint, largePoint, x,y,dotSize,t;
