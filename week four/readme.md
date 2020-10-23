@@ -6,6 +6,7 @@ Today's class saw us continue our experimentations on processing.
 <img width="1680" alt="Screen Shot 2020-08-14 at 11 16 12 am" src="https://user-images.githubusercontent.com/68723190/96999692-5242b500-1581-11eb-94a0-9d4ad17c55a4.png">
 
 
+FINSIHED PRODUCT:
 [firend.mp4.zip](https://github.com/mabryson/slavetoalg/files/5429208/firend.mp4.zip)
 
 
