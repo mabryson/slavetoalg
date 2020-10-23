@@ -3,6 +3,11 @@
 
 ## IN CLASS ACTIVITY 
 Today's class saw us continue our experimentations on processing.
+<img width="1680" alt="Screen Shot 2020-08-14 at 11 16 12 am" src="https://user-images.githubusercontent.com/68723190/96999692-5242b500-1581-11eb-94a0-9d4ad17c55a4.png">
+
+
+[firend.mp4.zip](https://github.com/mabryson/slavetoalg/files/5429208/firend.mp4.zip)
+
 
 
 ### CODE: 
@@ -36,3 +41,5 @@ noStroke(); // this removes the outline of the circle
 ellipse (x,y,dotSize,dotSize);
 //line(x,y,x+dotSize,y+dotSize); // this draws the lines
 }
+## thought this processing sketch was cool 
+https://www.openprocessing.org/sketch/838545
