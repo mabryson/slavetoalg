@@ -1,0 +1,3 @@
+# week nine - milestone 
+This week we had a milestone presentation of our projects and received feedback on the progress of our work! Feedback from Karen was fair and highlighted a number of areas in my project that needed development, I wasn't actually aware that you couldn't upload processing sketches to the web so had been working in that format when I really should of been working in p5.js woo very fun piece of info I can tell you that much for free ! I presented my kinetic type that I had been working on which was an avenue I was exploring in how I could simulate the deconstruction of the exhibition
+<img width="957" alt="Screen Shot 2020-09-25 at 10 22 49 am" src="https://user-images.githubusercontent.com/68723190/96976652-d38d4e00-1567-11eb-9f33-bc6c85feef61.png">
