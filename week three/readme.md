@@ -12,3 +12,6 @@ away from computers today - asked to create non human drawing machine from what'
 1. Twiter data mining
 2. How is Kanye? algorithm deduces the sentiment of Kanye's tweets for the day and gives them a score from 0 - 100, <50 being positive and >50 being negative. this updates website that has a picture of kanye either smiling or frowning based on the sentiments of his tweet for that day 
 - how to achieve this? 
+<img width="210" alt="Screen Shot 2020-10-23 at 10 30 49 pm" src="https://user-images.githubusercontent.com/68723190/96998601-71404780-157f-11eb-8e81-8ab7e257fd7d.png">
+<img width="237" alt="Screen Shot 2020-10-23 at 10 30 41 pm" src="https://user-images.githubusercontent.com/68723190/96998622-7dc4a000-157f-11eb-9465-4ffe13ab12b0.png">
+
