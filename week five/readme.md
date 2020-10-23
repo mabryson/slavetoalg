@@ -1,6 +1,8 @@
 # Week five 
 
 ## Pitch Presentation
+<img width="688" alt="Screen Shot 2020-10-22 at 5 01 44 pm" src="https://user-images.githubusercontent.com/68723190/96957702-14c13600-1547-11eb-8a87-b90b55c79e23.png">
+
 SLIDE 1 
 
 So through my presentation I’m going to explain my line inquiry which focuses on temporary art in the context of the digital landscape. This includes the what and why, artists that inspired my project and alternative outcomes to my final pitch. 
@@ -53,3 +55,6 @@ SLIDE 10
 Alternative outputs could include a live feed of someone or a machine destroying artwork based on an outside factor. This would strongly be referencing Jonathan Fletcher Moore’s “artificial killing machine” discussed in class in which he has suspended dozens of toy guns that fire, with every real world drone death. 
 
 Some of my alternative lines of inquiry to this project focused on social media mining, specifically twitter data. Using python it is possible to create an algorithm that interprets the sentiment of someone’s tweet, giving it a score out of 0-100. I think it would also be interesting to make or unmake something based on this data. 
+
+<img width="687" alt="Screen Shot 2020-10-22 at 5 01 53 pm" src="https://user-images.githubusercontent.com/68723190/96957718-21458e80-1547-11eb-941c-f5f486942829.png">
+
