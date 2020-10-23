@@ -10,5 +10,14 @@ consults this week was really confronting, I didn't realise the limitations of p
 
 ## pseudo code 
 
+"GALLERY" 
+
+INPUT: people 
+
+IF people + 1 
+   THEN run next frame of animation 
+   ELSE animation remain the same 
+END IF 
+
 ## workshop
 <img width="1680" alt="Screen Shot 2020-09-18 at 2 19 48 pm" src="https://user-images.githubusercontent.com/68723190/96964500-48578c80-1556-11eb-9568-6cda882e14e1.png">
